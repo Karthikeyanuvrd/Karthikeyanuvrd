@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Karthikeyan S
 - 👀 I’m interested in Web development. I'm currently working as a Full-stack web developer.
 - 🌱 I’m currently learning Web development technologies like Vue js, Node js, Express js.
-- 💞️ I’m looking to collaborate on web developers who are having knowledge in web development. We will learn together and grow together.
+- 💞️ I’m looking to collaborate with web developers who are having knowledge in web development. We will learn together and grow together.
 - 📫 You can reach me by using this email id "karthikeyanselvakumar119@gmail.com" or through linkedIn also.
 I will post creative games and online projects through this github profile. You can review my code and give your feedback about it.
 If you find any issues you can also notify me. I am in the beginning stage of web development. You may think,
