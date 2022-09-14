@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Karthikeyan S
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development. I'm currently working as a Full-stack web developer.
 - 🌱 I’m currently learning Web development technologies like Vue js, Node js, Express js.
 - 💞️ I’m looking to collaborate on web developers who are having knowledge in web development. We will learn together and grow together.
 - 📫 You can reach me by using this email id "karthikeyanselvakumar119@gmail.com" or through linkedIn also.
